@@ -4,6 +4,8 @@ As the creators, and maintainers of this project, we're glad to share our projec
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue or assessing patches and features.
 
+In general, we expect you to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## Using the issue tracker for bug reports, feature requests and discussions
 
 ### First time contributors

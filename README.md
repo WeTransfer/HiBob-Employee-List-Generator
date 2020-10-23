@@ -16,5 +16,5 @@ You will need to create an API token in HiBob and then copy that to the applicat
 
 Build with Xcode (verified on 11.4)
 
-![WT employeelist](/assets/WT employeelist.png?raw=true)
+![WT employeelist](/assets/WT%20employeelist.png?raw=true)
 

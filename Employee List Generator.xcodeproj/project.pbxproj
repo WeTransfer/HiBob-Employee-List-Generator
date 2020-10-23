@@ -14,7 +14,7 @@
 		BF0E7EBE2501240000C7E109 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF0E7EBC2501240000C7E109 /* Main.storyboard */; };
 		BF0E7ECA2501240000C7E109 /* Employee_ListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF0E7EC92501240000C7E109 /* Employee_ListTests.swift */; };
 		BF0E7ED52501240000C7E109 /* Employee_ListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF0E7ED42501240000C7E109 /* Employee_ListUITests.swift */; };
-		BF1EAA162507D4AE008C8196 /* WTLogo transparent.icns in Resources */ = {isa = PBXBuildFile; fileRef = BF1EAA152507D4AE008C8196 /* WTLogo transparent.icns */; };
+		BF99E37025430D3100F1F6F5 /* Logo.icns in Resources */ = {isa = PBXBuildFile; fileRef = BF99E36F25430D3100F1F6F5 /* Logo.icns */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,7 +49,7 @@
 		BF0E7ED02501240000C7E109 /* Employee List GeneratorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Employee List GeneratorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF0E7ED42501240000C7E109 /* Employee_ListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Employee_ListUITests.swift; sourceTree = "<group>"; };
 		BF0E7ED62501240000C7E109 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BF1EAA152507D4AE008C8196 /* WTLogo transparent.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "WTLogo transparent.icns"; sourceTree = "<group>"; };
+		BF99E36F25430D3100F1F6F5 /* Logo.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = Logo.icns; path = ../../../../Users/arjen.vanbochoven/Downloads/Logo.icns; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,7 +100,7 @@
 		BF0E7EB2250123FE00C7E109 /* Employee List */ = {
 			isa = PBXGroup;
 			children = (
-				BF1EAA152507D4AE008C8196 /* WTLogo transparent.icns */,
+				BF99E36F25430D3100F1F6F5 /* Logo.icns */,
 				BF0E7EB3250123FE00C7E109 /* AppDelegate.swift */,
 				BF0E7EB5250123FE00C7E109 /* ContentView.swift */,
 				BF0E7EB72501240000C7E109 /* Assets.xcassets */,
@@ -242,8 +242,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BF1EAA162507D4AE008C8196 /* WTLogo transparent.icns in Resources */,
 				BF0E7EBE2501240000C7E109 /* Main.storyboard in Resources */,
+				BF99E37025430D3100F1F6F5 /* Logo.icns in Resources */,
 				BF0E7EBB2501240000C7E109 /* Preview Assets.xcassets in Resources */,
 				BF0E7EB82501240000C7E109 /* Assets.xcassets in Resources */,
 			);

@@ -28,7 +28,7 @@ struct ContentView: View {
     var body: some View {
        
             VStack {
-                Text("Employee list generator")
+                Text("HiBob Employee list generator")
                     .font(.system(.largeTitle, design: .rounded))
                 
                 HStack {
